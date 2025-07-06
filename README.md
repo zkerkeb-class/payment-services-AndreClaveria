@@ -1,7 +1,7 @@
-# payment-services-AndreClaveria
+# payment-services-Clement7892
 
 ## Description
-This is a microservice for the AndreClaveria project.
+This is a microservice for the Clement7892 project.
 
 ## Installation
 `ash

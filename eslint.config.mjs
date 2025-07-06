@@ -1,4 +1,4 @@
-import globals from "globals";
+﻿import globals from "globals";
 import tseslint from "typescript-eslint";
 
 export default tseslint.config(
@@ -18,7 +18,7 @@ export default tseslint.config(
     },
     rules: {
       // Style rules
-      quotes: ["error", "single"],
+      quotes: ["error", "double"],
       semi: ["error", "always"],
       indent: ["error", 2],
       "object-curly-spacing": ["error", "always"],
